@@ -1,4 +1,4 @@
-package com.makifinan.mvvmnewsapp
+package com.makifinan.mvvmnewsapp.model
 
 data class Source(
     val id: String,

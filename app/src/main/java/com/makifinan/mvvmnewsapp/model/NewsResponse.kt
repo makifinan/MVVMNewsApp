@@ -1,4 +1,6 @@
-package com.makifinan.mvvmnewsapp
+package com.makifinan.mvvmnewsapp.model
+
+import com.makifinan.mvvmnewsapp.model.Article
 
 data class NewsResponse(
     val articles: List<Article>,

@@ -1,6 +1,6 @@
 package com.makifinan.mvvmnewsapp.api
 
-import com.makifinan.mvvmnewsapp.NewsResponse
+import com.makifinan.mvvmnewsapp.model.NewsResponse
 import com.makifinan.mvvmnewsapp.util.Constants
 import retrofit2.Response
 import retrofit2.http.GET

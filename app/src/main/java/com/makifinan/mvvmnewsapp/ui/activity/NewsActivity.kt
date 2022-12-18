@@ -1,9 +1,10 @@
-package com.makifinan.mvvmnewsapp
+package com.makifinan.mvvmnewsapp.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI
+import com.makifinan.mvvmnewsapp.R
 import com.makifinan.mvvmnewsapp.databinding.ActivityNewsBinding
 
 class NewsActivity : AppCompatActivity() {
