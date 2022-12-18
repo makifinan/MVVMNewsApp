@@ -1,4 +1,5 @@
 # MVVMNewsApp
-Navigation Component
-Retrofit 
-MVVM Architecture
+#### Hello. Welcome.
+-Navigation Component
+-Retrofit
+-MVVM Architecture
